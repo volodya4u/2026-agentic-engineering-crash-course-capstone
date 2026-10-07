@@ -1,6 +1,6 @@
 # Inventory Management
 
-Код фінального проєкту **Inventory Management** розміщено в окремому репозиторії:
+The code of the final project **Inventory Management** is in a separate repository:
 
 ## [github.com/volodya4u/InventoryManagement](https://github.com/volodya4u/InventoryManagement)
 
